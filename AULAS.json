@@ -1,0 +1,19 @@
+[
+{
+"assunto": "Banco de Dados 2",
+"professor": {"nome":"Claudio"},
+"alunos": [{"nome":"Luiz"},{"nome":"Joao"},{"nome":"Roberto"},{"nome":"Joana"}]
+},
+
+{
+"assunto": "Matemática Discreta",
+"professor": {"nome":"Marcelo Cisneiros"},
+"alunos": [{"nome":"Luiz"},{"nome":"Paula"},{"nome":"Leonardo"},{"nome":"Matheus"}]
+},
+
+{
+"assunto": "Álgebra",
+"professor": {"nome":"Dani"},
+"alunos": [{"nome":"Luiz"},{"nome":"Lavinia"},{"nome":"Julia"},{"nome":"Thomas"}]
+}
+]
